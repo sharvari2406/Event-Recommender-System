@@ -1,0 +1,4 @@
+venv
+try.py
+__pycache*
+unique*
