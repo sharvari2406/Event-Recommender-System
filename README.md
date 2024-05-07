@@ -1,4 +1,4 @@
-# Recommender System
+# Event Recommender System
 ## Machine Learning Development Project
 
 ### Project Deliverables:
